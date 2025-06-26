@@ -1,3 +1,6 @@
+Part of my submission for AllMind AI's Fall 2025 takehome assessment.
+Please see the backend repo for more details: https://github.com/RahulTandon1/chatbot-backend
+The text below this is the standard NextJS starter readme
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
